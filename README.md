@@ -12,4 +12,7 @@ The adjacency function of the range_array_builder class will exclude hexes with 
 
 The program will output a .csv file with a two-dimensional array that shows the distance between each hex number.
 
+<img width="787" height="566" alt="image" src="https://github.com/user-attachments/assets/b5f256b3-c980-412c-858a-165f26a72e65" />
+
+
  
